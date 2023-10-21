@@ -1,0 +1,1 @@
+# global_super_store
